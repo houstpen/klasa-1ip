@@ -1,0 +1,8 @@
+C:\kl2p\gr1\Wojtekk\Pierwsza konsola\obj\Debug\Pierwsza konsola.csproj.AssemblyReference.cache
+C:\kl2p\gr1\Wojtekk\Pierwsza konsola\obj\Debug\Pierwsza konsola.csproj.SuggestedBindingRedirects.cache
+C:\kl2p\gr1\Wojtekk\Pierwsza konsola\obj\Debug\Pierwsza konsola.csproj.CoreCompileInputs.cache
+C:\kl2p\gr1\Wojtekk\Pierwsza konsola\bin\Debug\Pierwsza konsola.exe.config
+C:\kl2p\gr1\Wojtekk\Pierwsza konsola\bin\Debug\Pierwsza konsola.exe
+C:\kl2p\gr1\Wojtekk\Pierwsza konsola\bin\Debug\Pierwsza konsola.pdb
+C:\kl2p\gr1\Wojtekk\Pierwsza konsola\obj\Debug\Pierwsza konsola.exe
+C:\kl2p\gr1\Wojtekk\Pierwsza konsola\obj\Debug\Pierwsza konsola.pdb
